@@ -8,3 +8,6 @@ Aplikasi List Saham Bluechip menggunakan kotlin
 
 # Author
 Hafidh Irsyad Khairuddin
+
+# Clone
+Jika ingin mengclone silahkan ketik git clone https://github.com/HafidhIrsyad/Submission-Android-Pemula-Dicoding.git kemudian import ke dalam android studio dan jangan lupa kerjakan dengan sendirinya. Selamat belajar.
